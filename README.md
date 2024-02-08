@@ -6,8 +6,7 @@ Aspiring and detail-oriented software developer proficient in Java, SQL, and Spr
 Strong problem-solving skills and ability to work effectively in a team-based environment.
 
 Besides constantly learning more & more about software development and trying to get my leg in through the door,
-👀 I’m also interested in
-
+👀 I’m also interested in:
 * Triathlon
 * Ironman
 * Swimming
