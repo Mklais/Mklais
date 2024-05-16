@@ -1,6 +1,7 @@
 # Hey, I’m Marten Kustav Klais! 👋
 
-#### Nice to meet you and thank you for taking a quick look in here!
+#### Let's get acquainted!
+Nice to meet you and thank you for taking a quick look in here!
 
 I am detail-oriented Java software developer with a engineering background. I bring passion for problem-solving and a innovation to every project. My strong communication skills and adaptability enable me to effectively contribute to team-based projects. Constantly seeking opportunities for personal and professional growth.
 
