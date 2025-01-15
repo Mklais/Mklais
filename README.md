@@ -7,7 +7,7 @@ I am detail-oriented Java software developer with a engineering background. I br
 
 ## 🧰 Tech Stack
 
-### 🛠️ Backend Development
+### Backend Development
 * **Languages & Frameworks:**&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16" height="16"> `Java`,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="16" height="16">  `Spring`
@@ -24,10 +24,12 @@ I am detail-oriented Java software developer with a engineering background. I br
 * **Build Tools:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"  width="16" height="16"> `Maven`
 
-### 🎨 Frontend Development
+### Frontend Development
 * **Languages & Frameworks:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="16" height="16"> `HTML5`,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="16" height="16"> `CSS`,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="16" height="16"> `ANGULAR`,
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16" height="16"> `JavaScript`,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16" height="16"> `React`
 
